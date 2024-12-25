@@ -1,0 +1,35 @@
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f4f4f9;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+#hidden-word {
+  font-size: 24px;
+  margin: 20px;
+  letter-spacing: 10px;
+}
+
+input {
+  padding: 10px;
+  font-size: 18px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+#message {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #555;
+}
